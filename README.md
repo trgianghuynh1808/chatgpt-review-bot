@@ -2,6 +2,9 @@
 
 > A GitHub App built with [Probot](https://github.com/probot/probot) that A Probot app
 
+## Demo
+[![Watch the video](https://img.youtube.com/vi/EuKKCKgkBEM/hqdefault.jpg)](https://www.youtube.com/watch?v=EuKKCKgkBEM)
+
 ## Setup
 
 ```sh
